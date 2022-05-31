@@ -1,2 +1,2 @@
-# pytestApiFramework
-pytest API
+# pytestFramework
+pytest

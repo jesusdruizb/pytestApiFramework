@@ -1,0 +1,13 @@
+{
+    "pokeApiUrl": "https://pokeapi.co/api/v2/",
+    "api": {
+        "apiUrl": "http://0.0.0.0:8085/wp-json",
+        "apiUsername": "auto",
+        "apiPassword": "auto",
+        "apiAuthToken": "YXV0bzphdXRv"
+    },
+    "ui": {
+        "uiUsername": "auto",
+        "uiPassword": "auto"
+    }
+}
