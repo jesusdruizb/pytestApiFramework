@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="1" failures="0" skipped="0" tests="1" time="0.429" timestamp="2022-05-31T21:31:36.675452" hostname="Jesus-Ruiz-MacBook-Pro.local"><testcase classname="" name="tests.test_pokemon_endpoint" time="0.000"><error message="collection failure">test_pokemon_endpoint.py:14: in &lt;module&gt;
+    env_vars = file_operations.read_file_as_json_readonly('env_vars.json')
+../common/api/FileOperations.py:10: in read_file_as_json_readonly
+    file = open(file_path, 'r')
+E   FileNotFoundError: [Errno 2] No such file or directory: 'env_vars.json'</error></testcase></testsuite></testsuites>

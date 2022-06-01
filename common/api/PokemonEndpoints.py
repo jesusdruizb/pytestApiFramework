@@ -14,3 +14,6 @@ class PokemonEndpoints:
 
     def pokemon_berries_base_resource(self, pokemon_berry):
         return f'berry/{pokemon_berry}'
+
+    def pokemon_move_base_resource(self, pokemon_move):
+        return f'move/{pokemon_move}'
